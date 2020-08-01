@@ -38,6 +38,7 @@ This will automatically produce an output file with the name ‘trapdoor.txt’ 
 We can now upload this file on to the cloud server.  
 In order to search on the encrypted content of the file trapdoor_key.txt (whether or not a particular keyword exists in encrypted form), we run the searchable_encryption_cloud.py , which is the server side code for searching the keywords.  
 
+
     python3 searchable_encryption_cloud.py
 Input : i) name of the trapdoor file on which search is to be done  
         ii) test keyword  
