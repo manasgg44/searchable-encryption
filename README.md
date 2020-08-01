@@ -5,6 +5,7 @@ This repository is a python implementation of song et al’s "Practical Techniqu
 
 This encryption technique can securely protect contents of a document yet allows keyword search to be carried without the secret key.  
 
+
 **Pre-requisites :**  
 To see which version of Python 3 you have installed, open a command prompt and run  
 python3 --version  
