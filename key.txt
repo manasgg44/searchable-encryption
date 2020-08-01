@@ -3,7 +3,7 @@ prateek
 manas
 dikshya
 shrishti
-crypto
+crypt
 pramod
 nikita
 priyanshi
