@@ -41,7 +41,9 @@ In order to search on the encrypted content of the file trapdoor_key.txt (whethe
 
 
     python3 searchable_encryption_cloud.py
-Input : i) name of the trapdoor file on which search is to be done  
-        ii) test keyword  
-Output : true, if the keyword is present in the trapdoor file  
-         false, otherwise
+Input : 
+i) name of the trapdoor file on which search is to be done  
+ii) test keyword  
+Output : 
+true, if the keyword is present in the trapdoor file  
+false, otherwise
